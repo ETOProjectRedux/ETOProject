@@ -77,15 +77,38 @@ This is an **MMO + ARPG**: massive, persistent worlds, real-time action, and com
 
 ---
 
+## 🤝 Join Us—Let’s Build This Dream Together
+
+### 📢 Help Us Spread the Word
+
+- If you love running YouTube channels, social media pages, or simply enjoy sharing creative visions online,
+  we welcome you as a community partner to help share this passion with the world!
+- Whether you’re experienced in content creation, active in communities, a streamer, or just genuinely enthusiastic—let’s connect and collaborate.
+
+### 🎨 Art & Technical Art Collaborators
+
+- Are you familiar with Blender, 3ds Max, or other 3D tools?
+  Help us build immersive large-scale maps, split them into chunks, and export FBX files for Unity’s chunk-based loading workflow.
+- Skills with shaders, Unity animation, or technical art are a big plus!
+- Students, self-taught creators, indie developers, or professional artists—all are welcome to brainstorm and create together.
+
+### 💸 Supporters & Backers
+
+- If you believe in this vision and would like to support us with resources, investment, or sponsorship,  
+  let’s connect and explore what we can build together!
+
+---
+
 ## 💬 Contact & Collaboration
 
-> Interested in joining, investing, or supporting?  
-> email: `hopewonderlandteam@gmail.com`
-> Discord: `pushenouo`
-> Line: `asunagod`
-> Let’s build the ultimate anime MMOARPG together!  
+> **If you’re passionate, creative, and want to help bring this MMOARPG dream to life,
+> we’d love to hear from you! Collaboration, ideas, and energy from all backgrounds are welcome—let’s create something legendary together!**
 >
-> *This is more than just a game—it’s a new kind of anime world, where your skill decides your legend!*
+> - Email: `hopewonderlandteam@gmail.com`
+> - Discord: `pushenouo`
+> - Line: `asunagod`
+>
+> *This is more than just a game—it’s a new world that we build together. Your involvement could be the start of a legend!*
 
 ---
 # Chinese Version 
@@ -168,14 +191,37 @@ This is an **MMO + ARPG**: massive, persistent worlds, real-time action, and com
 
 ---
 
+## 🤝 我們期待更多同路人加入
+
+### 📢 一起推廣夢想
+
+- 如果你熱愛經營 YouTube、社群平台，或擅長在網路上宣傳理想與創作，  
+  歡迎成為我們的推廣夥伴，一起把這份熱情傳遞給更多人！
+- 不論你是內容經營高手、社群活躍分子、直播主，還是單純有心推廣這個夢想，都很歡迎和我們交流。
+
+### 🎨 美術／技術美術夥伴
+
+- 熟悉 Blender、3ds Max 或其他 3D 工具的創作者，  
+  能夠協助我們製作大型地圖，並將地圖分割成 Chunk、匯出 FBX 供 Unity 導入（Chunk-based loading／分塊載入）。
+- 具備 Shader 編寫、Unity 動畫、技術美術等經驗都超加分。
+- 無論你是學生、自學者、獨立創作者或專業美術，都可以一起討論與合作！
+
+### 💸 尋找理念相同的資源贊助／支持者
+
+- 如果你認同我們的理念，並願意提供資金、資源或投資支持，歡迎主動聯絡，一起探索合作的可能！
+
+---
+
+
 ## 💬 聯絡我們／合作邀請
 
-> 有興趣參與、投資或合作，歡迎聯絡
-> gmail：`hopewonderlandteam@gmail.com`
-> Discord: `pushenouo`
-> Line: `asunagod`
-> 一起打造史上最強的二次元刀劍 MMOARPG！
+> **只要你對這個夢想有熱情、有想法、有行動力，或想與我們共同創造這款遊戲，  
+> 都非常歡迎你和我們聯繫，讓我們一起讓二次元沉浸式刀劍 MMOARPG 誕生！**
 >
-> *這不只是一款遊戲，而是屬於我們的全新世界——你用實力創造傳奇！*
+> - Email: `hopewonderlandteam@gmail.com`
+> - Discord: `pushenouo`
+> - Line: `asunagod`
+>
+> *這不只是一款遊戲，而是我們共同創造的新世界。你的參與，就是傳奇的起點！*
 
 ---
