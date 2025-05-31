@@ -107,7 +107,7 @@ This is an **MMO + ARPG**: massive, persistent worlds, real-time action, and com
 > - Email: `hopewonderlandteam@gmail.com`
 > - Discord: `pushenouo`
 > - Line: `asunagod`
->   Discord Community: `https://discord.gg/38mPempC5T`
+> - Discord Community: `https://discord.gg/38mPempC5T`
 >
 > *This is more than just a game—it’s a new world that we build together. Your involvement could be the start of a legend!*
 
