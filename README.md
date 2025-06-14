@@ -3,7 +3,7 @@
 
 ## 💬 Contact & Collaboration
 
-> **If you’re passionate, creative, and want to help bring this MMOARPG dream to life,
+> **If you’re passionate, creative, and want to help bring this dream to life,
 > we’d love to hear from you! Collaboration, ideas, and energy from all backgrounds are welcome—let’s create something legendary together!**
 >
 > - Email: `hopewonderlandteam@gmail.com`
@@ -20,7 +20,7 @@
 ## 💬 聯絡我們／合作邀請
 
 > **只要你對這個夢想有熱情、有想法、有行動力，或想與我們共同創造這款遊戲，  
-> 都非常歡迎你和我們聯繫，讓我們一起讓二次元沉浸式刀劍 MMOARPG 誕生！**
+> 都非常歡迎你和我們聯繫！**
 >
 > - Email: `hopewonderlandteam@gmail.com`
 > - Discord: `pushenouo`
